@@ -1,0 +1,75 @@
+<HTML>
+<HEAD>
+<style>
+*{
+margin: 0px;
+padding:0px;
+}
+body{
+margin-left: 150px;
+top-margin: 20px;
+}
+#container ul {
+list-style: none;
+}
+#container ul li {
+background-color: #ff00ff;
+width: 200px;
+border: 1px solid white;
+border-radius: 26px;
+height:50px;
+line-height: 50px;
+text-align: center;
+float: left;
+color: white;
+font-size: 19px;
+}
+#container ul li:hover{
+background-color: #ffd700
+}
+#container ul ul{
+display: none;
+}
+#container ul li:hover > ul{
+display: block;
+}
+</style>
+<TITLE>APS, SRINAGAR( UNOFFICIAL WEBPAGE)</TITLE>
+</HEAD>
+<BODY background="P1.png" text="black" leftmargin="60">
+<h1>
+<center><br><br><U><I>
+WELCOME TO THE UNOFFICIAL WEBSITE OF ARMY PUBLIC SCHOOL, SRINAGAR
+</U></I>
+</center>
+</h1>
+<div id="container">
+<ul>
+<li>HOME</li> 
+<li>PRINCIPAL'S OFFICE</li> 
+<li>IT DEPARTMENT</li> 
+<li>OUR CLASSES
+<UL>
+<LI>CLASS 1<SUP>st</SUP></LI> 
+<LI>CLASS 2<SUP>nd</SUP></LI> 
+<LI>CLASS 3<SUP>rd</SUP></LI> 
+<LI>CLASS 4<SUP>th</SUP></LI> 
+<LI>CLASS 5<SUP>th</SUP></LI> 
+<LI>CLASS 6<SUP>th</SUP></LI> 
+<LI>CLASS 7<SUP>th</SUP></LI> 
+<LI>CLASS 8<SUP>th</SUP></LI> 
+<LI>CLASS 9<SUP>th</SUP></LI> 
+<LI>CLASS 10<SUP>th</SUP></LI> 
+</UL>
+</li> 
+<li>CONTACT US
+<ul>
+<li>MAIL US</li> 
+<li>CALL US</li> 
+<li>MEET US</li> 
+</ul>
+</li> 
+</ul> 
+</div>
+</BODY>
+</HTML>
